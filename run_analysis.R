@@ -91,5 +91,5 @@ names(final)
 
 # 5. From the data set in step 4, creates a second, independent tidy data set with the average of each variable for each activity and each subject.
 final_df<- final %>% group_by(activity_label,subject_id ) %>% summarise_all(funs(mean))
-write.table(final, "tidy.txt")
+write.table(final_df, "tidy.txt")
 
