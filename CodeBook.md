@@ -16,6 +16,7 @@ The identifiers for this dataset are subjects (n=30), that took part in the expe
 
 The following variables are part of the tidy.txt dataset. 
 Variables
+
 	•	 [1] “activity_label" 						- The activity performed during test (identifier)                                                
 	•	 [2] "subject_id"  							- The id of the test person                                                  
 	•	 [3] "timeDomainBodyAccelerometerMeanX" 		- measurement as well as below variables (self explanatory)                                
