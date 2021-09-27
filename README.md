@@ -10,3 +10,5 @@ The R script '84run_analysis.R'93 is performing several data cleaning steps that
 5. From the data set in step 4, creates a second, independent tidy data set with the average of each variable for each activity and each subject.
 
 The final dataset is called tidy.txt and will be stored with the row_names = FALSE option.
+
+ANd this is not a test.
